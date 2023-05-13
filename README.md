@@ -22,7 +22,7 @@ Update the database name, username and password.
 ```php
   "database" => [
     "host" => "127.0.0.1", # host
-    "dbname" => "wefi_dashboard", # database name
+    "dbname" => "databasename", # database name
     "user" => "phpmyadmin", # username
     "password" => "root" #password
 
